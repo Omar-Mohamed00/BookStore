@@ -1,9 +1,9 @@
-#Book Store
+# Book Store
 
-##Overview
+## Overview
 The Book Store Application is a complete web-based system designed to manage a collection of books, users, and orders. It provides a seamless experience for browsing, searching, purchasing, and managing books online.
 
-##✨ Features
+## ✨ Features
 🔍 Advanced search and filter options
 
 🛒 Shopping Cart and Checkout system
@@ -22,6 +22,6 @@ The Book Store Application is a complete web-based system designed to manage a c
 
 🧠 Session and State Management (Session, Cookies, TempData)
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
 ASP.NET Core 8 | Entity Framework Core | SQL Server | Bootstrap 4 |Visual Studio 2022
